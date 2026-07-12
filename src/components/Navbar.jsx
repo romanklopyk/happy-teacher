@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { Menu, X, ChevronDown, GraduationCap } from 'lucide-react';
+import { Menu, X, ChevronDown, Monitor } from 'lucide-react';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -46,7 +46,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <NavLink to="/" className="flex-shrink-0 flex items-center">
-              <GraduationCap className="h-8 w-8 text-primary" />
+              <Monitor className="h-8 w-8 text-primary" />
               <span className="ml-2 text-xl font-bold text-gray-800 hidden md:block">Сайт-портфоліо Хлопика Романа </span>
             </NavLink>
           </div>

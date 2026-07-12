@@ -1,5 +1,5 @@
 import React from 'react';
-import { Lightbulb, Calendar, User, BookOpen, GraduationCap } from 'lucide-react';
+import { Lightbulb, Calendar, User, BookOpen, Laptop } from 'lucide-react';
 import projectsData from '../../data/projects';
 
 const Projects = () => {
@@ -50,7 +50,7 @@ const Projects = () => {
                           </div>
                           {project.grade && (
                             <div className="flex items-center text-sm text-gray-600 bg-gray-50 px-3 py-1 rounded-lg">
-                              <GraduationCap className="w-3.5 h-3.5 mr-1.5 text-gray-400" />
+                              <Laptop className="w-3.5 h-3.5 mr-1.5 text-gray-400" />
                               <span>{project.grade} клас</span>
                             </div>
                           )}

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Quote, Trophy, Lightbulb, GraduationCap, Users, FlaskConical, MonitorCheck } from 'lucide-react';
+import { BookOpen, Quote, Trophy, Lightbulb, Laptop, Users, FlaskConical, MonitorCheck } from 'lucide-react';
 import usserPhoto from '../assets/img/DSC_6900.jpg';
 
 const Home = () => {
@@ -39,7 +39,7 @@ const Home = () => {
         {/* Card 1: Experience */}
         <Link to="/experience" className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-all group">
           <div className="w-12 h-12 bg-blue-50 rounded-lg flex items-center justify-center mb-4 group-hover:bg-blue-600 transition-colors">
-            <GraduationCap className="text-blue-500 group-hover:text-white transition-colors" />
+            <Laptop className="text-blue-500 group-hover:text-white transition-colors" />
           </div>
           <h3 className="text-lg font-bold text-gray-900 mb-2">Педагогічний досвід</h3>
           <p className="text-gray-600 text-sm">Мій професійний шлях та методи роботи</p>
