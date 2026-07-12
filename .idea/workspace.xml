@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c50a49c-bfac-413f-af29-8cd610e72a6e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="2" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;romanklopyk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/romanklopyk/happy-teacher.git&quot;,
+    &quot;accountId&quot;: &quot;6c830c2f-54d5-479e-bd71-18739d1034ba&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3100613352512438" />
+      <entry key="MS500" value="2.266236241282873" />
+      <entry key="S2" value="4.642738527001578" />
+      <entry key="S5" value="6.490693947659978" />
+      <entry key="S10" value="7.546179173267299" />
+      <entry key="S30" value="8.460927821823127" />
+      <entry key="S60" value="8.722890345517307" />
+      <entry key="M2" value="8.859489142225424" />
+      <entry key="M5" value="8.955551381819259" />
+      <entry key="M10" value="9.370801669827951" />
+      <entry key="M15" value="10.26434233686964" />
+      <entry key="M30" value="13.446528899053865" />
+      <entry key="H1" value="19.67698935202777" />
+      <entry key="H2" value="29.48347962777521" />
+      <entry key="H4" value="39.58807758061815" />
+      <entry key="D1" value="53.3831718091974" />
+      <entry key="W1" value="56.46220587209549" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="7.027021289758866E-182" />
+      <entry key="S10" value="2.6508529362752034E-91" />
+      <entry key="S30" value="6.423847339761198E-31" />
+      <entry key="S60" value="8.014890728987639E-16" />
+      <entry key="M2" value="2.8310582348280367E-8" />
+      <entry key="M5" value="9.567082645245804E-4" />
+      <entry key="M10" value="0.03093384110242537" />
+      <entry key="M15" value="0.09875004411230423" />
+      <entry key="M30" value="0.32854765608346514" />
+      <entry key="H1" value="0.681282953628249" />
+      <entry key="H2" value="1.0963801006433087" />
+      <entry key="H4" value="1.4549691459696692" />
+      <entry key="D1" value="1.8919160138421023" />
+      <entry key="W1" value="1.984065560601545" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1563955691188303" />
+      <entry key="MS500" value="2.1948601617232604" />
+      <entry key="S2" value="4.584485389465572" />
+      <entry key="S5" value="6.45740318085926" />
+      <entry key="S10" value="7.527149231806505" />
+      <entry key="S30" value="8.453954819078291" />
+      <entry key="S60" value="8.71931768044328" />
+      <entry key="M2" value="8.857680683557179" />
+      <entry key="M5" value="8.955774008080667" />
+      <entry key="M10" value="9.401284460984225" />
+      <entry key="M15" value="10.362665189764503" />
+      <entry key="M30" value="13.774623496006141" />
+      <entry key="H1" value="20.35777715039324" />
+      <entry key="H2" value="30.579395356554222" />
+      <entry key="H4" value="41.042705424780415" />
+      <entry key="D1" value="55.27500676564411" />
+      <entry key="W1" value="58.44625909435698" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GOWAct2TQOC7AM7VJFmSfSh727" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "G:/js-pr/happy-teacher/src/assets/diploma",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\js-pr\happy-teacher\src\assets\diploma" />
+      <recent name="G:\js-pr\happy-teacher\src\assets\sert" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\js-pr\happy-teacher\src\assets\img" />
+      <recent name="G:\js-pr\happy-teacher\src\assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c50a49c-bfac-413f-af29-8cd610e72a6e" name="Changes" comment="" />
+      <created>1783842953841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783842953841</updated>
+      <workItem from="1783842955037" duration="11203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

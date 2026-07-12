@@ -1,0 +1,35 @@
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
+import Layout from './components/Layout';
+import Home from './pages/Home';
+import Experience from './pages/Experience';
+import DigitalResources from './pages/Methodical/DigitalResources';
+import Certificates from './pages/Growth/Certificates';
+import Competitions from './pages/Students/Competitions';
+import Projects from './pages/Students/Projects';
+import PagePlaceholder from './components/PagePlaceholder';
+
+function App() {
+  return (
+    <Layout>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/experience" element={<Experience />} />
+        
+        {/* Methodical */}
+        <Route path="/methodical/digital-developments" element={<DigitalResources />} />
+        <Route path="/methodical/projects" element={<PagePlaceholder title="Участь у проєктах та експериментальній роботі" />} />
+        <Route path="/methodical/communities" element={<PagePlaceholder title="Участь у професійних спільнотах" />} />
+        
+        {/* Students */}
+        <Route path="/students/competitions" element={<Competitions />} />
+        <Route path="/students/projects" element={<Projects />} />
+        
+        {/* Growth */}
+        <Route path="/growth/certificates" element={<Certificates />} />
+      </Routes>
+    </Layout>
+  );
+}
+
+export default App;
