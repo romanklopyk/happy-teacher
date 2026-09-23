@@ -10,7 +10,7 @@ const digitalDevelopmentsData = [
     badge: 'Освітня цифрова екосистема',
     url: null,
     isOffline: true,
-    // statusNotice: 'Хостинг проєкту тимчасово призупинено',
+    statusNotice: 'Хостинг проєкту тимчасово призупинено',
     icon: 'GraduationCap',
     image: elyceumScreen,
     imageAlt: 'Головна сторінка вебплатформи «Є-ліцей»',
