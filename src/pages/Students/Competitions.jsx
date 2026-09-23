@@ -110,7 +110,7 @@ const Competitions = () => {
       <header className="mb-12">
         <h1 className="text-3xl font-bold text-gray-900 mb-4">Переможці олімпіад та МАН</h1>
         <p className="text-gray-600 max-w-3xl">
-          Досягнення моїх учнів на олімпіадах та конкурсах різних рівнів.
+          Досягнення моїх учнів на олімпіадах різних рівнів.
         </p>
       </header>
 

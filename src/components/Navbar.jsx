@@ -14,7 +14,7 @@ const Navbar = () => {
       path: '/methodical',
       subItems: [
         { title: 'Цифрові розробки', path: '/methodical/digital-developments' },
-        { title: 'Проєкти та експерименти', path: '/methodical/projects' },
+        // { title: 'Проєкти та експерименти', path: '/methodical/projects' },
         { title: 'Професійні спільноти', path: '/methodical/communities' },
       ]
     },

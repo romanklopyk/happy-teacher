@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Quote, Trophy, Lightbulb, Laptop, Users, FlaskConical, MonitorCheck } from 'lucide-react';
+import { BookOpen, Quote, Trophy, Lightbulb, Laptop, Users, MonitorCheck } from 'lucide-react';
 import usserPhoto from '../assets/img/DSC_6900.jpg';
 
 const Home = () => {
@@ -60,13 +60,13 @@ const Home = () => {
               <Users className="w-4 h-4 mr-2" />
               Професійні спільноти
             </Link>
-            <Link 
-              to="/methodical/projects" 
-              className="flex items-center text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline"
-            >
-              <FlaskConical className="w-4 h-4 mr-2" />
-              Проєкти та експерименти
-            </Link>
+            {/*<Link */}
+            {/*  to="/methodical/projects" */}
+            {/*  className="flex items-center text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline"*/}
+            {/*>*/}
+            {/*  <FlaskConical className="w-4 h-4 mr-2" />*/}
+            {/*  Проєкти та експерименти*/}
+            {/*</Link>*/}
             <Link 
               to="/methodical/digital-developments" 
               className="flex items-center text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline"

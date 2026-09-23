@@ -7,8 +7,8 @@ const certificatesData = [
     year: 2026,
     items: [
       { id: 1, title: 'Сертифікат 2026', file: '06-2026.pdf', type: 'pdf' },
-      { id: 2, title: 'Грамота 2026', file: 'document.pdf', type: 'pdf' },
-      { id: 3, title: 'Подяка', file: 'document.png', type: 'image' },
+      { id: 2, title: 'Грамота 2026', file: 'document.png', type: 'image' },
+      { id: 3, title: 'Подяка', file: 'document.pdf', type: 'pdf' },
     ]
   },
   {
